@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Joshua Nieves
+Handle: Cipher Vein
+Start Time: 2026-10-29 15:00:27.598362
+End Time: 2026-10-29 15:01:36.214853
+Duration (minutes): 1.14
+Score: 10/10
+Rating: EXPERT
+---- Threat Logs ----
+Threat: SSH Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.88 on port
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: HTTP Web Exploit
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: DNS Amplification DDoS
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: Proxy Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: HTTPS Web Exploit
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: FTP Credential Sniffing
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: RDP Brute Force Attack
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+===================================
